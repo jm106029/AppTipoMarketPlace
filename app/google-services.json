@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118259535793",
+    "project_id": "app-compra-y-venta-50aef",
+    "storage_bucket": "app-compra-y-venta-50aef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118259535793:android:aabdc33787f1a8c6cf3790",
+        "android_client_info": {
+          "package_name": "com.rm.appcomprayventa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsTIsAz5b5nwdw8WLut0_Rqmzvk0HHeQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
